@@ -1,2 +1,0 @@
-# metodos
-Aplicacion para metodos
